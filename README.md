@@ -50,16 +50,8 @@ You can test the endpoints using Postman or similar tools.
 ## Example API Usage  
 
 ### Create a Post  
-Request  
 POST  
-`api/posts`   
-
-Body  
-{  
-"title": "My First Post",  
-"content": "This is sample content",  
-"author": "John"  
-}  
+`api/posts`    
 
 ### Get All Posts  
 GET  
